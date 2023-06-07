@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS bl_3nf.ce_countries_id_seq;

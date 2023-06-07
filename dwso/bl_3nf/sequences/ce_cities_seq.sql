@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS bl_3nf;
+CREATE SEQUENCE IF NOT EXISTS bl_3nf.ce_cities_id_seq;

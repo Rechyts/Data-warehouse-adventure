@@ -1,0 +1,1 @@
+CREATE SEQUENCE IF NOT EXISTS bl_3nf.ce_products_id_seq;

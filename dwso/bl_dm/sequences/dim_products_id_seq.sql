@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS bl_dm;
+CREATE SEQUENCE IF NOT EXISTS bl_dm.dim_products_id_seq;
